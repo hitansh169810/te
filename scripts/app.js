@@ -1,1 +1,2 @@
-const app=angular.module("testengine",["ngRoute"]);
+
+const app=angular.module("testengine",["ngRoute","firebase"]);
